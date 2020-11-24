@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "Главный Герой",
-        "width": 816,
-        "height": 624,
+        "width": 812,
+        "height": 1024,
         "position": "center",
         "icon": "icon/icon.png"
     }
