@@ -5,7 +5,7 @@
     "window": {
         "title": "Главный Герой",
         "width": 812,
-        "height": 1024,
+        "height": 1280,
         "position": "center",
         "icon": "icon/icon.png"
     }
