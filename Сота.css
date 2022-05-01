@@ -3,6 +3,12 @@
    font-family: "Avenir Next Cyr";
    src: url('AvenirNextCyr-Regular.woff') format('woff'), url('AvenirNextCyr-Regular.ttf') format('truetype'), url('AvenirNextCyr-Regular.eot') format('embedded-opentype');
 }
+@font-face {
+   font-display: swap;
+   font-family: "Avenir Next Cyr";
+   src: url('AvenirNextCyr-Bold.woff') format('woff'), url('AvenirNextCyr-Bold.ttf') format('truetype'), url('AvenirNextCyr-Bold.eot') format('embedded-opentype');
+   font-weight: bold;
+}
 h1,
 .h1 {
    background-color: transparent;
