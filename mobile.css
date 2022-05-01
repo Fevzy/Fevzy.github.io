@@ -297,9 +297,9 @@ select:focus {
 #wb_Text2 {
    color: #000000;
    font-family: "Avenir Next Cyr";
-   font-size: 15px;
+   font-size: 17px;
    font-weight: normal;
-   line-height: 17.5px;
+   line-height: 21.5px;
 }
 #wb_Text2 p,
 #wb_Text2 ul {
@@ -351,9 +351,9 @@ select:focus {
 #wb_Text13 {
    color: #000000;
    font-family: "Avenir Next Cyr";
-   font-size: 15px;
+   font-size: 13px;
    font-weight: normal;
-   line-height: 17.5px;
+   line-height: 16.5px;
 }
 #wb_Text13 p,
 #wb_Text13 ul {
@@ -549,27 +549,6 @@ select:focus {
    padding: 0;
    top: 0;
    width: 100%;
-}
-#wb_Text3 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
-#wb_Text3 {
-   color: #000000;
-   font-family: "Avenir Next Cyr";
-   font-size: 15px;
-   font-weight: normal;
-   line-height: 17.5px;
-}
-#wb_Text3 p,
-#wb_Text3 ul {
-   margin: 0;
-   padding: 0;
 }
 #Layer3 {
    background-color: #FFFFFF;
@@ -1057,6 +1036,27 @@ select:focus {
    margin: 0;
    padding: 0;
 }
+#wb_Text3 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text3 {
+   color: #000000;
+   font-family: "Avenir Next Cyr";
+   font-size: 13px;
+   font-weight: normal;
+   line-height: 16.5px;
+}
+#wb_Text3 p,
+#wb_Text3 ul {
+   margin: 0;
+   padding: 0;
+}
 #PageHeader1_Container {
    margin-left: auto;
    margin-right: auto;
@@ -1132,7 +1132,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 16;
 }
@@ -1157,7 +1157,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 20;
 }
@@ -1173,7 +1173,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 10;
 }
@@ -1199,7 +1199,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 22;
 }
@@ -1207,7 +1207,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 18;
 }
@@ -1235,7 +1235,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 24;
 }
@@ -1243,7 +1243,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 6;
 }
@@ -1283,18 +1283,18 @@ select:focus {
    z-index: 9;
 }
 #wb_Text13 {
-   height: 78px;
+   height: 73px;
    left: 10px;
    position: absolute;
-   top: 13px;
+   top: 10px;
    width: 137px;
-   z-index: 7;
+   z-index: 8;
 }
 #wb_Text12 {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 32;
 }
@@ -1335,7 +1335,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 30;
 }
@@ -1358,7 +1358,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 28;
 }
@@ -1380,10 +1380,10 @@ select:focus {
    z-index: 47;
 }
 #wb_Text3 {
-   height: 78px;
-   left: 10px;
+   height: 73px;
+   left: 12px;
    position: absolute;
-   top: 13px;
+   top: 10px;
    width: 137px;
    z-index: 14;
 }
@@ -1473,7 +1473,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 26;
 }
@@ -1600,7 +1600,7 @@ select:focus {
    height: 78px;
    left: 10px;
    position: absolute;
-   top: 130px;
+   top: 120px;
    width: 140px;
    z-index: 12;
 }
@@ -1627,7 +1627,7 @@ select:focus {
    position: absolute;
    top: 96px;
    width: 97px;
-   z-index: 8;
+   z-index: 7;
 }
 #wb_Image17 {
    height: 96px;
@@ -1667,13 +1667,13 @@ body {
 }
 #wb_Carousel1 {
    display: block;
-   height: 330px;
+   height: 320px;
    margin: 0;
    visibility: visible;
    width: 330px;
 }
 #Carousel1 .frame {
-   height: 330px;
+   height: 320px;
    width: 330px;
 }
 #Carousel1 .carousel-innerframe {
@@ -1724,9 +1724,9 @@ body {
 }
 #wb_Text1 {
    display: inline;
-   height: 125px;
+   height: 133px;
    left: 30px;
-   top: 18px;
+   top: 20px;
    visibility: visible;
    width: 260px;
 }
@@ -1757,11 +1757,11 @@ body {
 }
 #wb_Text14 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text14 {
    margin: 0;
@@ -1770,7 +1770,7 @@ body {
 #wb_Image17 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -1779,11 +1779,11 @@ body {
 }
 #wb_Text2 {
    display: inline;
-   height: 60px;
+   height: 68px;
    left: 30px;
-   top: 20px;
+   top: 19px;
    visibility: visible;
-   width: 140px;
+   width: 179px;
 }
 #wb_Text2 {
    margin: 0;
@@ -1801,7 +1801,7 @@ body {
 }
 #Layer17 {
    display: block;
-   height: 140px;
+   height: 150px;
    left: 170px;
    top: 860px;
    visibility: visible;
@@ -1812,11 +1812,11 @@ body {
 }
 #wb_Text13 {
    display: inline;
-   height: 52px;
-   left: 17px;
-   top: 20px;
+   height: 78px;
+   left: 14px;
+   top: 13px;
    visibility: visible;
-   width: 130px;
+   width: 137px;
 }
 #wb_Text13 {
    margin: 0;
@@ -1825,10 +1825,10 @@ body {
 #wb_Image14 {
    display: inline;
    height: 54px;
-   left: 27px;
+   left: 30px;
    margin: 0;
    padding: 0;
-   top: 86px;
+   top: 96px;
    visibility: visible;
    width: 97px;
 }
@@ -1856,7 +1856,7 @@ body {
 #wb_Image6 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -1865,11 +1865,11 @@ body {
 }
 #wb_Text5 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text5 {
    margin: 0;
@@ -1899,7 +1899,7 @@ body {
 #wb_Image10 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -1908,11 +1908,11 @@ body {
 }
 #wb_Text9 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text9 {
    margin: 0;
@@ -1920,22 +1920,22 @@ body {
 }
 #Layer2 {
    display: block;
-   height: 140px;
+   height: 150px;
    left: 0px;
    top: 860px;
    visibility: visible;
-   width: 161px;
+   width: 160px;
 }
 #Layer2_Container {
-   width: 161px;
+   width: 160px;
 }
 #wb_Image3 {
    display: inline;
    height: 54px;
-   left: 32px;
+   left: 27px;
    margin: 0;
    padding: 0;
-   top: 86px;
+   top: 96px;
    visibility: visible;
    width: 97px;
 }
@@ -1947,22 +1947,10 @@ body {
    visibility: visible;
    width: 88px;
 }
-#wb_Text3 {
-   display: inline;
-   height: 52px;
-   left: 187px;
-   top: 20px;
-   visibility: visible;
-   width: 130px;
-}
-#wb_Text3 {
-   margin: 0;
-   padding: 0;
-}
 #Layer3 {
    display: block;
    height: 220px;
-   left: 0px;
+   left: 170px;
    top: 1070px;
    visibility: visible;
    width: 160px;
@@ -1973,7 +1961,7 @@ body {
 #wb_Image4 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -1982,11 +1970,11 @@ body {
 }
 #wb_Text4 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text4 {
    margin: 0;
@@ -1996,7 +1984,7 @@ body {
    display: block;
    height: 220px;
    left: 0px;
-   top: 1070px;
+   top: 1300px;
    visibility: visible;
    width: 160px;
 }
@@ -2006,7 +1994,7 @@ body {
 #wb_Image15 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2015,11 +2003,11 @@ body {
 }
 #wb_Text15 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text15 {
    margin: 0;
@@ -2028,8 +2016,8 @@ body {
 #Layer15 {
    display: block;
    height: 220px;
-   left: 0px;
-   top: 1070px;
+   left: 170px;
+   top: 1300px;
    visibility: visible;
    width: 160px;
 }
@@ -2039,7 +2027,7 @@ body {
 #wb_Image16 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2048,11 +2036,11 @@ body {
 }
 #wb_Text16 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text16 {
    margin: 0;
@@ -2061,7 +2049,7 @@ body {
 #Layer6 {
    display: block;
    height: 220px;
-   left: 0px;
+   left: 170px;
    top: 1590px;
    visibility: visible;
    width: 160px;
@@ -2072,7 +2060,7 @@ body {
 #wb_Image7 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2081,11 +2069,11 @@ body {
 }
 #wb_Text6 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text6 {
    margin: 0;
@@ -2095,7 +2083,7 @@ body {
    display: block;
    height: 220px;
    left: 0px;
-   top: 1590px;
+   top: 1820px;
    visibility: visible;
    width: 160px;
 }
@@ -2105,7 +2093,7 @@ body {
 #wb_Image8 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2114,11 +2102,11 @@ body {
 }
 #wb_Text7 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text7 {
    margin: 0;
@@ -2127,8 +2115,8 @@ body {
 #Layer8 {
    display: block;
    height: 220px;
-   left: 0px;
-   top: 1590px;
+   left: 170px;
+   top: 1820px;
    visibility: visible;
    width: 160px;
 }
@@ -2138,7 +2126,7 @@ body {
 #wb_Image9 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2147,11 +2135,11 @@ body {
 }
 #wb_Text8 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text8 {
    margin: 0;
@@ -2160,7 +2148,7 @@ body {
 #Layer10 {
    display: block;
    height: 220px;
-   left: 0px;
+   left: 170px;
    top: 2110px;
    visibility: visible;
    width: 160px;
@@ -2171,7 +2159,7 @@ body {
 #wb_Image11 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2180,11 +2168,11 @@ body {
 }
 #wb_Text10 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text10 {
    margin: 0;
@@ -2194,7 +2182,7 @@ body {
    display: block;
    height: 220px;
    left: 0px;
-   top: 2110px;
+   top: 2340px;
    visibility: visible;
    width: 160px;
 }
@@ -2204,7 +2192,7 @@ body {
 #wb_Image12 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2213,11 +2201,11 @@ body {
 }
 #wb_Text11 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text11 {
    margin: 0;
@@ -2226,8 +2214,8 @@ body {
 #Layer12 {
    display: block;
    height: 220px;
-   left: 0px;
-   top: 2110px;
+   left: 170px;
+   top: 2340px;
    visibility: visible;
    width: 160px;
 }
@@ -2237,7 +2225,7 @@ body {
 #wb_Image13 {
    display: inline;
    height: 96px;
-   left: 37px;
+   left: 32px;
    margin: 0;
    padding: 0;
    top: 20px;
@@ -2246,13 +2234,25 @@ body {
 }
 #wb_Text12 {
    display: inline;
-   height: 52px;
-   left: 15px;
-   top: 140px;
+   height: 78px;
+   left: 10px;
+   top: 130px;
    visibility: visible;
-   width: 130px;
+   width: 140px;
 }
 #wb_Text12 {
+   margin: 0;
+   padding: 0;
+}
+#wb_Text3 {
+   display: inline;
+   height: 78px;
+   left: 184px;
+   top: 13px;
+   visibility: visible;
+   width: 137px;
+}
+#wb_Text3 {
    margin: 0;
    padding: 0;
 }
