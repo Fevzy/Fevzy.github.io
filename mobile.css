@@ -295,7 +295,7 @@ select:focus {
    text-align: left;
 }
 #wb_Text2 {
-   color: #000000;
+   color: #4F4F4F;
    font-family: "Avenir Next Cyr";
    font-size: 15px;
    font-weight: normal;
@@ -434,7 +434,7 @@ select:focus {
    text-align: left;
 }
 #wb_Text5 {
-   color: #000000;
+   color: #4F4F4F;
    font-family: "Avenir Next Cyr";
    font-size: 15px;
    font-weight: normal;
@@ -668,7 +668,7 @@ select:focus {
    text-align: left;
 }
 #wb_Text6 {
-   color: #000000;
+   color: #4F4F4F;
    font-family: "Avenir Next Cyr";
    font-size: 15px;
    font-weight: normal;
@@ -884,7 +884,7 @@ select:focus {
    text-align: left;
 }
 #wb_Text7 {
-   color: #000000;
+   color: #4F4F4F;
    font-family: "Avenir Next Cyr";
    font-size: 15px;
    font-weight: normal;
@@ -938,7 +938,7 @@ select:focus {
    text-align: left;
 }
 #wb_Text8 {
-   color: #000000;
+   color: #4F4F4F;
    font-family: "Avenir Next Cyr";
    font-size: 15px;
    font-weight: normal;
@@ -1724,7 +1724,7 @@ body {
 }
 #wb_Text1 {
    display: inline;
-   height: 134px;
+   height: 133px;
    left: 30px;
    top: 20px;
    visibility: visible;
