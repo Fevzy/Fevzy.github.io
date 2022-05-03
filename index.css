@@ -176,172 +176,6 @@ select:focus {
    background-repeat: no-repeat;
    background-size: cover;
 }
-#Layer1 {
-   background-color: #FFFFFF;
-   background-image: none;
-   border-radius: 3px;
-   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
-}
-#Layer1:hover {
-   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
-   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer1 {
-   -webkit-transform: rotate(0deg);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow:;
-   transform: rotate(0deg);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#wb_Heading1 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: center;
-}
-#Heading1 {
-   color: #000000;
-   font-family: "Avenir Next Cyr";
-   font-size: 32px;
-   font-style: normal;
-   font-weight: bold;
-   margin: 0;
-   text-align: center;
-}
-#Layer2 {
-   background-color: #FFFFFF;
-   background-image: none;
-   border-radius: 3px;
-   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
-}
-#Layer2:hover {
-   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
-   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer2 {
-   -webkit-transform: rotate(0deg);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow:;
-   transform: rotate(0deg);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer3 {
-   background-color: #FFFFFF;
-   background-image: none;
-   border-radius: 3px;
-   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
-}
-#Layer3:hover {
-   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
-   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer3 {
-   -webkit-transform: rotate(0deg);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow:;
-   transform: rotate(0deg);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer4 {
-   background-color: #FFFFFF;
-   background-image: none;
-   border-radius: 3px;
-   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
-}
-#Layer4:hover {
-   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
-   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#Layer4 {
-   -webkit-transform: rotate(0deg);
-   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-   box-shadow:;
-   transform: rotate(0deg);
-   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
-}
-#wb_Image4 {
-   vertical-align: top;
-}
-#Image4 {
-   border: 0px solid #000000;
-   border-radius: 0px;
-   height: 100%;
-   left: 0;
-   margin: 0;
-   padding: 0;
-   top: 0;
-   width: 100%;
-}
-#wb_Image5 {
-   vertical-align: top;
-}
-#Image5 {
-   border: 0px solid #000000;
-   border-radius: 0px;
-   height: 100%;
-   left: 0;
-   margin: 0;
-   padding: 0;
-   top: 0;
-   width: 100%;
-}
-#wb_Text1 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
-#wb_Text1 {
-   color: #FF7F50;
-   font-family: "Avenir Next Cyr";
-   font-size: 29px;
-   font-weight: normal;
-   line-height: 34px;
-}
-#wb_Text1 p,
-#wb_Text1 ul {
-   margin: 0;
-   padding: 0;
-}
-#wb_Text4 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
-#wb_Text4 {
-   color: #FF7F50;
-   font-family: "Avenir Next Cyr";
-   font-size: 21px;
-   font-weight: normal;
-   line-height: 26.5px;
-}
-#wb_Text4 p,
-#wb_Text4 ul {
-   margin: 0;
-   padding: 0;
-}
 #wb_Heading2 {
    background-color: transparent;
    background-image: none;
@@ -465,74 +299,6 @@ select:focus {
    vertical-align: top;
 }
 #Image17 {
-   border: 0px solid #000000;
-   border-radius: 0px;
-   height: 100%;
-   left: 0;
-   margin: 0;
-   padding: 0;
-   top: 0;
-   width: 100%;
-}
-#wb_Text2 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
-#wb_Text2 {
-   color: #4F4F4F;
-   font-family: "Avenir Next Cyr";
-   font-size: 24px;
-   font-weight: normal;
-   line-height: 29.5px;
-}
-#wb_Text2 p,
-#wb_Text2 ul {
-   margin: 0;
-   padding: 0;
-}
-#wb_Image2 {
-   vertical-align: top;
-}
-#Image2 {
-   border: 0px solid #000000;
-   border-radius: 0px;
-   height: 100%;
-   left: 0;
-   margin: 0;
-   padding: 0;
-   top: 0;
-   width: 100%;
-}
-#wb_Text3 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
-#wb_Text3 {
-   color: #4169E1;
-   font-family: "Avenir Next Cyr";
-   font-size: 21px;
-   font-weight: normal;
-   line-height: 26.5px;
-}
-#wb_Text3 p,
-#wb_Text3 ul {
-   margin: 0;
-   padding: 0;
-}
-#wb_Image3 {
-   vertical-align: top;
-}
-#Image3 {
    border: 0px solid #000000;
    border-radius: 0px;
    height: 100%;
@@ -1169,6 +935,777 @@ select:focus {
 }
 #wb_Text12 p,
 #wb_Text12 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer1 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer1:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer1 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image2 {
+   vertical-align: top;
+}
+#Image2 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text1 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text1 {
+   color: #FF7F50;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text1 p,
+#wb_Text1 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer2 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer2:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer2 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image3 {
+   vertical-align: top;
+}
+#Image3 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text2 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text2 {
+   color: #FF7F50;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text2 p,
+#wb_Text2 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer3 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer3:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer3 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image4 {
+   vertical-align: top;
+}
+#Image4 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text3 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text3 {
+   color: #FF7F50;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text3 p,
+#wb_Text3 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer4 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer4:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer4 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image5 {
+   vertical-align: top;
+}
+#Image5 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text4 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text4 {
+   color: #FF7F50;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text4 p,
+#wb_Text4 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer17 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer17:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer17 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image21 {
+   vertical-align: top;
+}
+#Image21 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text18 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text18 {
+   color: #4F4F4F;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text18 p,
+#wb_Text18 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer18 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer18:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer18 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image22 {
+   vertical-align: top;
+}
+#Image22 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text19 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text19 {
+   color: #4F4F4F;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text19 p,
+#wb_Text19 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer19 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer19:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer19 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image23 {
+   vertical-align: top;
+}
+#Image23 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text20 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text20 {
+   color: #4F4F4F;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text20 p,
+#wb_Text20 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer20 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer20:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer20 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image24 {
+   vertical-align: top;
+}
+#Image24 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text21 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text21 {
+   color: #4F4F4F;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text21 p,
+#wb_Text21 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer21 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer21:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer21 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image25 {
+   vertical-align: top;
+}
+#Image25 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text22 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text22 {
+   color: #4169E1;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text22 p,
+#wb_Text22 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer22 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer22:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer22 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image26 {
+   vertical-align: top;
+}
+#Image26 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text23 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text23 {
+   color: #4169E1;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text23 p,
+#wb_Text23 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer23 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer23:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer23 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image27 {
+   vertical-align: top;
+}
+#Image27 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text24 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text24 {
+   color: #4169E1;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text24 p,
+#wb_Text24 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer24 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer24:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer24 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Image28 {
+   vertical-align: top;
+}
+#Image28 {
+   border: 0px solid #000000;
+   border-radius: 0px;
+   height: 100%;
+   left: 0;
+   margin: 0;
+   padding: 0;
+   top: 0;
+   width: 100%;
+}
+#wb_Text25 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text25 {
+   color: #4169E1;
+   font-family: "Avenir Next Cyr";
+   font-size: 21px;
+   font-weight: normal;
+   line-height: 26.5px;
+}
+#wb_Text25 p,
+#wb_Text25 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer25 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer25:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer25 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Text26 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#wb_Text26 {
+   color: #FF7F50;
+   font-family: "Avenir Next Cyr";
+   font-size: 27px;
+   font-weight: normal;
+   line-height: 32px;
+}
+#wb_Text26 p,
+#wb_Text26 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer26 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer26:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer26 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Text27 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#wb_Text27 {
+   color: #4F4F4F;
+   font-family: "Avenir Next Cyr";
+   font-size: 27px;
+   font-weight: normal;
+   line-height: 32px;
+}
+#wb_Text27 p,
+#wb_Text27 ul {
+   margin: 0;
+   padding: 0;
+}
+#Layer27 {
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 3px;
+   box-shadow: 0px 1px 2px rgba(0,0,0,0.08);
+}
+#Layer27:hover {
+   -webkit-transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow: 0 3px 3px 2px rgba(122, 122, 122, 0.2);
+   transform: translate(0px,-5px) rotate(0deg) scale(1.0,1);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#Layer27 {
+   -webkit-transform: rotate(0deg);
+   -webkit-transition: -webkit-transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+   box-shadow:;
+   transform: rotate(0deg);
+   transition: transform 200ms linear 0ms, box-shadow 200ms linear 0ms;
+}
+#wb_Text28 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#wb_Text28 {
+   color: #4169E1;
+   font-family: "Avenir Next Cyr";
+   font-size: 27px;
+   font-weight: normal;
+   line-height: 32px;
+}
+#wb_Text28 p,
+#wb_Text28 ul {
    margin: 0;
    padding: 0;
 }
